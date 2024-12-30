@@ -1,0 +1,39 @@
+body {
+    font-family: 'Helvetica';
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(./images/pattern.webp);
+    margin: 0 auto;
+}
+
+.sec-title {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes p.sec-title {
+    background-color: mediumspringgreen;
+}
+
+#frames p.sec-title {
+    background-color: lightcoral;
+}
+
+#paint p.sec-title {
+    background-color: skyblue;
+}
+
+.item-name {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
